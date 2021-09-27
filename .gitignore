@@ -122,6 +122,6 @@ inc/
 
 # End of https://www.gitignore.io/api/go,perl,emacs,visualstudiocode
 
-goembed_ex_text
+goembed_ex_fs
 *.exe
 *.bak
